@@ -1,2 +1,2 @@
-ignorefold
+ignorefold/
 file1.txt
