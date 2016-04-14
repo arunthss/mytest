@@ -1,2 +1,2 @@
 ignorefold/
-File1.txt
+File1
